@@ -4,7 +4,7 @@
 The goal of Explore 8.1 was to modify a banter critic's prompt to change their perspective on movies and observe how that change affects the conversation.
 
 ## Features
-For this exploration, Banter's stance was changed from a critical to an emotional perspective, judging films primarily by how authentically they make the audience feel.
+For this exploration, Banter's stance was changed from a critical to an emotional perspective, judging films primarily by how they make the audience feel.
 
 
 ## What I changed...
